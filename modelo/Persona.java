@@ -6,6 +6,5 @@ public class Persona{
 		
 	}
 	public String getNombre(){
-		
 	}
 }
